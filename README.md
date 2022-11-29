@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanjeevSaniel
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently finishing up on React, Node
 - 💞️ I’m looking to work as a Web Developer
 - 📫 How to reach me :- sanjeevsanielkujur7@outlook.com
 
