@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanjeevSaniel
 - 👀 I ❤️ Web Development<!--🌱 I’m currently finishing up on React, Node -->
-- 🌱 Have worked on using React, Node, Pega CRM.
+- 🌱 Work and Build using React, Node, Pega CRM etc.
 - 💞️ I’m looking to work as a Web Developer
 - 📫 Reach me :- sanjeevsanielkujur7@outlook.com
 
