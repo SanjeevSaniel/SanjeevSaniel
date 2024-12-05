@@ -2,7 +2,7 @@
 👀 Passionate about Web Development.  
 🌱 I actively work and build with React, Node, Next.js, Pega CRM, and more. Always keen on exploring and adopting new technologies to enhance my skills and craft better applications.
 
-### Special Mention:
+### Documentation:
 > **[TechDocs](https://github.com/SanjeevSaniel/Tech-Docs)** - My comprehensive repository for project documentation. Here, you'll find detailed guides, API references, and tutorials that reflect my approach to documentation and knowledge sharing. It's a resource aimed at helping developers get started quickly and efficiently with various projects and tools.
 
 ### Connect with Me:
