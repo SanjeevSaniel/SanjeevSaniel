@@ -7,9 +7,11 @@
     Sanjeev Saniel
   </h1>
   <p style="font-size:1.2rem;color:#444;margin-top:0;">
-    Full Stack Web Developer &mdash; Crafting modern, maintainable web experiences.<br>
-    <span style="color:#6A82FB;font-weight:500;">React • Node.js • Clean Code • Collaboration</span>
-  </p>
+  Full Stack Web Developer &mdash; Crafting modern, maintainable web experiences.<br>
+  <span style="color:#6A82FB;font-weight:500;">React • Node.js • Clean Code • Collaboration</span><br>
+  <a href="https://www.sanjeevkujur.dev" style="color:#667eea;font-weight:600;text-decoration:none;">🌐 www.sanjeevkujur.dev</a>
+</p>
+
 
   <!-- Socials -->
   <p style="margin: 22px 0 8px 0;">
