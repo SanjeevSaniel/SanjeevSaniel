@@ -64,7 +64,7 @@ location: India
 </td>
 <td valign="top" width="33%">
   <strong>Backend & APIs</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&perline=4" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" /><br>
   <img src="https://img.shields.io/badge/neon4j-008CC1?style=flat-square&logo=neo4j" height="20"/> <img src="https://img.shields.io/badge/neondb-00F884?style=flat-square&logo=data:image/svg+xml;base64," height="20"/> <img src="https://img.shields.io/badge/drizzle-1E4C2A?style=flat-square&logo=drizzle" height="20"/>
 </td>
 <td valign="top" width="33%">
