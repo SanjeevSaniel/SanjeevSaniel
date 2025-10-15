@@ -59,8 +59,9 @@ location: India
 <tr>
 <td valign="top" width="33%">
   <strong>Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,vite,html,css,sass,styledcomponents,framer&perline=6" /><br>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui" height="20"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" height="20"/> <img src="https://img.shields.io/badge/Lenis-FF6B6B?style=flat-square" height="20"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,styledcomponents,framer&perline=6" /><br>
+  <!-- <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui" height="20"/> -->
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" height="20"/> <img src="https://img.shields.io/badge/Lenis-FF6B6B?style=flat-square" height="20"/>
 </td>
 <td valign="top" width="33%">
   <strong>Backend & APIs</strong><br>
