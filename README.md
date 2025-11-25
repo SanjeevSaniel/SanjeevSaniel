@@ -55,16 +55,16 @@ location: India
 
 ---
 
-## 🛠️ Tech Stack
+<!--## 🛠️ Tech Stack -->
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td valign="top" width="33%">
   <strong>Frontend</strong><br>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,styledcomponents,framer&perline=6" /><br>
   <!-- <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui" height="20"/> -->
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" height="20"/> <img src="https://img.shields.io/badge/Lenis-FF6B6B?style=flat-square" height="20"/>
-</td>
+  <!-- <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" height="20"/> <img src="https://img.shields.io/badge/Lenis-FF6B6B?style=flat-square" height="20"/> -->
+<!-- </td>
 <td valign="top" width="33%">
   <strong>Backend & APIs</strong><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" /><br>
@@ -72,13 +72,13 @@ location: India
 </td>
 <td valign="top" width="33%">
   <strong>Databases & Cloud</strong><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,vercel,netlify,aws,gcp,azure&perline=6" /><br>
-  <img src="https://img.shields.io/badge/Pega%20CRM-1E8CBE?style=flat-square&logo=pega" height="20"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,vercel,netlify,aws,gcp,azure&perline=6" /><br> -->
+  <!-- <img src="https://img.shields.io/badge/Pega%20CRM-1E8CBE?style=flat-square&logo=pega" height="20"/>
 </td>
 </tr>
 </table>
 
----
+--- -->
 
 ## 🤝 Connect With Me
 
