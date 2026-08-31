@@ -1,101 +1,110 @@
 <div align="center">
 
-  <!-- Fresh, Clean Hero Section -->
-  <div style="width:100%;height:6px;background:linear-gradient(90deg,#667eea,#764ba2);border-radius:3px;margin-bottom:28px;"></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5F5389,100:7C6FB0&height=180&section=header&text=Sanjeev%20Kujur&fontSize=46&fontColor=F1EDF8&fontAlignY=40&desc=Software%20Engineer%20%E2%80%94%20CRM%20%E2%86%92%20Full-Stack%20%E2%86%92%20AI&descAlignY=60&descSize=18&descColor=E5DEFA" />
 
-  <h1 style="margin-bottom:10px;font-size:2.2rem;font-weight:700;letter-spacing:-1px;color:#222;">
-    Sanjeev Saniel
-  </h1>
-  <p style="font-size:1.2rem;color:#444;margin-top:0;">
-  Full Stack Web Developer &mdash; Crafting modern, maintainable web experiences.<br>
-  <span style="color:#6A82FB;font-weight:500;">React • Node.js • Clean Code • Collaboration</span><br>
-  <a href="https://www.sanjeevkujur.dev" style="color:#667eea;font-weight:600;text-decoration:none;">🌐 www.sanjeevkujur.dev</a>
-</p>
-
-
-  <!-- Socials -->
-  <p style="margin: 22px 0 8px 0;">
-    <a href="https://github.com/SanjeevSaniel?tab=followers" title="GitHub Followers">
-      <img src="https://custom-icon-badges.demolab.com/github/followers/SanjeevSaniel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" height="28" />
-    </a>
-    <a href="https://www.linkedin.com/in/sanjeevsaniel/" title="LinkedIn">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-    </a>
-    <a href="https://www.npmjs.com/~sanjeevsaniel" title="NPM">
-      <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="28" />
-    </a>
-    <a href="https://github.com/SanjeevSaniel/Tech-Docs" title="Tech Docs">
-      <img src="https://img.shields.io/badge/Tech%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" height="28" />
-    </a>
-    <a href="https://www.pexels.com/@sanjeev-saniel-875428/" title="Photography">
-      <img src="https://img.shields.io/badge/Photography-05A3E1?style=for-the-badge&logo=pexels&logoColor=white" height="28" />
-    </a>
-  </p>
+<a href="https://sanjeevkujur.dev">
+  <img src="https://img.shields.io/badge/🌐_sanjeevkujur.dev-7C6FB0?style=for-the-badge&logoColor=white&labelColor=5F5389" />
+</a>
+<a href="https://linkedin.com/in/SanjeevSaniel">
+  <img src="https://img.shields.io/badge/LinkedIn-7C6FB0?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/SanjeevSaniel">
+  <img src="https://img.shields.io/badge/X-5F5389?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://sanjeevsaniel.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Blog-9B8FD0?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
 
 </div>
 
----
+<br>
 
-## 👋 About Me
+## About
+
+I'm a Software Engineer based in Hyderabad, India, working across enterprise CRM, full-stack web, and — more recently — AI-driven products. My path started in **Pega Constellation**, building enterprise workflows that have to hold up at scale, and has widened into **Next.js + GenAI** — agentic chat, retrieval, and generation, shipped in production.
 
 ```yaml
-name: Sanjeev Saniel
-role: Full Stack Web Developer
-focus: [React, Node.js, Next.js, TypeScript]
-philosophy: "Clean code, thoughtful UX, comprehensive docs"
-status: "Open to collaboration & exciting projects"
-location: India
+currently:
+  building: Next.js apps with AI woven into how they think and respond
+  maintaining: enterprise workflows on Pega Constellation
+  exploring: agentic tooling, retrieval-augmented generation
+  open_to: collaboration on products that are fast, thoughtful, and useful
 ```
 
-- 🧑‍💻 Building: **Scalable React/Next.js apps**
-- 🚀 Exploring: **AI/LLM integrations, modern tooling**
-- 🤝 Looking to collaborate: **DX, open source & docs**
-- 💬 Ask me about: **React, Node.js, API design, docs**
-- 📷 [Photography](https://www.pexels.com/@sanjeev-saniel-875428/)
+- 🔭 Full-stack across web (Next.js) and mobile (React Native)
+- 🤖 GenAI features layered on where they earn their place — not everywhere
+- 🏢 Still shaping the enterprise systems where this all started
+- 📫 Reach me at [sanjeevkujur.dev](https://sanjeevkujur.dev)
 
----
+<br>
 
-<!--## 🛠️ Tech Stack -->
+## Stack
 
-<!-- <table width="100%">
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
-  <strong>Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,styledcomponents,framer&perline=6" /><br>
-  <!-- <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui" height="20"/> -->
-  <!-- <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" height="20"/> <img src="https://img.shields.io/badge/Lenis-FF6B6B?style=flat-square" height="20"/> -->
-<!-- </td>
-<td valign="top" width="33%">
-  <strong>Backend & APIs</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" /><br>
-  <img src="https://img.shields.io/badge/neon4j-008CC1?style=flat-square&logo=neo4j" height="20"/> <img src="https://img.shields.io/badge/neondb-00F884?style=flat-square&logo=data:image/svg+xml;base64," height="20"/> <img src="https://img.shields.io/badge/drizzle-1E4C2A?style=flat-square&logo=drizzle" height="20"/>
+<td valign="top" width="25%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&perline=4" />
+
 </td>
-<td valign="top" width="33%">
-  <strong>Databases & Cloud</strong><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,vercel,netlify,aws,gcp,azure&perline=6" /><br> -->
-  <!-- <img src="https://img.shields.io/badge/Pega%20CRM-1E8CBE?style=flat-square&logo=pega" height="20"/>
+<td valign="top" width="25%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&perline=4" />
+
+</td>
+<td valign="top" width="25%">
+
+**GenAI & Agents**
+
+<img src="https://skillicons.dev/icons?i=openai,gemini&perline=4" />
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-7C6FB0?style=flat-square&logo=vercel&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Qdrant-9B8FD0?style=flat-square&logo=qdrant&logoColor=white" height="28"/>
+
+</td>
+<td valign="top" width="25%">
+
+**Cloud & Enterprise**
+
+<img src="https://skillicons.dev/icons?i=vercel,docker,aws,github&perline=4" />
+<img src="https://img.shields.io/badge/Pega%20Constellation-7C6FB0?style=flat-square&logo=pega&logoColor=white" height="28"/>
+
 </td>
 </tr>
 </table>
 
---- -->
+<br>
 
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/sanjeevsaniel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" height="24"/></a>
-  <a href="https://github.com/SanjeevSaniel/Tech-Docs"><img src="https://img.shields.io/badge/Tech%20Docs-1f6feb?style=flat-square&logo=github" height="24"/></a>
-  <a href="https://www.npmjs.com/~sanjeevsaniel"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm" height="24"/></a>
-  <a href="https://www.pexels.com/@sanjeev-saniel-875428/"><img src="https://img.shields.io/badge/Photography-05A3E1?style=flat-square&logo=pexels" height="24"/></a>
-  <a href="https://gravatar.com/blissful2cf66584a9"><img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=flat-square&logo=gravatar" height="24"/></a>
-</div>
-
----
+## GitHub Stats
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  <br><br>
-  <sub><strong>💡 Open for collaboration • 🚀 Always learning • 📚 Knowledge sharing enthusiast</strong></sub>
-  <br><br>
-  <strong>Thanks for visiting! 😊</strong>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanjeevSaniel&show_icons=true&hide_border=true&bg_color=14121A&title_color=A89CD8&icon_color=A89CD8&text_color=F4F2F8" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjeevSaniel&hide_border=true&background=14121A&ring=A89CD8&fire=A89CD8&currStreakLabel=A89CD8&sideLabels=F4F2F8&currStreakNum=F4F2F8&sideNums=F4F2F8&dates=837C98" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevSaniel&layout=compact&hide_border=true&bg_color=14121A&title_color=A89CD8&text_color=F4F2F8" />
+</div>
+
+<br>
+
+## Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/SanjeevSaniel"><img src="https://img.shields.io/badge/LinkedIn-7C6FB0?style=flat-square&logo=linkedin&logoColor=white" height="24"/></a>
+  <a href="https://x.com/SanjeevSaniel"><img src="https://img.shields.io/badge/X-5F5389?style=flat-square&logo=x&logoColor=white" height="24"/></a>
+  <a href="https://sanjeevsaniel.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-9B8FD0?style=flat-square&logo=hashnode&logoColor=white" height="24"/></a>
+  <a href="https://www.npmjs.com/~sanjeevsaniel"><img src="https://img.shields.io/badge/NPM-7C6FB0?style=flat-square&logo=npm&logoColor=white" height="24"/></a>
+  <a href="https://www.pexels.com/@sanjeev-saniel-875428/"><img src="https://img.shields.io/badge/Photography-5F5389?style=flat-square&logo=pexels&logoColor=white" height="24"/></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6FB0,100:5F5389&height=100&section=footer" />
